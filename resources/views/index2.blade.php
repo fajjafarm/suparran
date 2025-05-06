@@ -52,9 +52,9 @@
           <!--===== HERO AREA STARTS =======-->
           <div id="list-item-1">
             <div class="hero-heading-area heading1">
-              <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">Hi, I’m Alex, UI/UX Designer </h5>
+              <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">Hi, I’m Glen, a Scottish SUP racer </h5>
               <div class="space24"></div>
-              <h1 data-aos="fade-left" data-aos-duration="900">Pushing to be the best I can be </h1>
+              <h1 data-aos="fade-left" data-aos-duration="900">Train. Level up. Repeat </h1>
               <div class="space24"></div>
               <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Sharing Experiences <span>and Inspiring others</span></h1>
               <div class="space24"></div>
@@ -93,9 +93,9 @@
                 <div class="row">
                   <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1200">
                     <div class="about-main-boxes">
-                      <h4>Alex Carry</h4>
+                      <h4>Glen Sloss</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m Alex Carry, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences. I specialize in crafting user-centered designs that enhance engagement and drive results. By combining research, creativity, and technical skills, I deliver solutions that not only look great but also function seamlessly. </p>
+                      <p>Hi, I’m Glen Sloss, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences. I specialize in crafting user-centered designs that enhance engagement and drive results. By combining research, creativity, and technical skills, I deliver solutions that not only look great but also function seamlessly. </p>
                     </div>
                   </div>
                   <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
