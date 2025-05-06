@@ -28,7 +28,7 @@
               <img src="/img/all-images/hero/hero-img1.png" alt="">
             </div>
             <div class="space18"></div>
-            <h3>Alex Carry</h3>
+            <h3>Glen Sloss</h3>
             <div class="space16"></div>
             <p>Hi, I’m Glen, a dedicated Stand Up Paddleboard racer with 3 years of experience racing around the UK, Europe and beyond</p>
             <div class="space32"></div>
@@ -54,11 +54,11 @@
             <div class="hero-heading-area heading1">
               <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">Hi, I’m Alex, UI/UX Designer </h5>
               <div class="space24"></div>
-              <h1 data-aos="fade-left" data-aos-duration="900">Designing Intuitive </h1>
+              <h1 data-aos="fade-left" data-aos-duration="900">Pushing to be the best I can be </h1>
               <div class="space24"></div>
-              <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Experiences <span>Inspire</span></h1>
+              <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Sharing Experiences <span>and Inspiring others</span></h1>
               <div class="space24"></div>
-              <p data-aos="fade-left" data-aos-duration="1100">Your gateway to innovative design, seamless user experiences, and impactful solutions. Turning complex ideas into user-friendly designs. </p>
+              <p data-aos="fade-left" data-aos-duration="1100">The SUP Worl is incredible and my aim is to enjoy it as much as possible with enouraging others to take part in what is one of the fastest growing sports in the World </p>
               <div class="arrow" data-aos="fade-left" data-aos-duration="1200">
                 <a href="#">
                   <img src="/img/elements/elements1.png" alt="" class="elements1 keyframe5">
