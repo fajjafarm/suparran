@@ -14,6 +14,10 @@ class RoutingController extends Controller
     {
         return view('index2');
     }
+    public function home()
+    {
+        return view('index2');
+    }
     /**
      * first level route
      */
