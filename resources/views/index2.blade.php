@@ -16,9 +16,9 @@
           <div class="personal-contact-box" data-aos="fade-right" data-aos-duration="1000">
             <div id="list-example" class="list-group">
               <a class="list-group-item list-group-item-action active" href="#list-item-1"><img src="/img/icons/home1.svg" alt=""><span>Home</span></a>
-              <a class="list-group-item list-group-item-action" href="#list-item-2"><img src="/img/icons/home2.svg" alt=""> <span>About Us</span></a>
-              <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
-              <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
+              <a class="list-group-item list-group-item-action" href="#list-item-2"><img src="/img/icons/home2.svg" alt=""> <span>About Glen</span></a>
+              <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="/img/icons/home3.svg" alt=""> <span>Race History</span></a>
+              <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="/img/icons/home4.svg" alt=""> <span>Sponsors</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-5"><img src="/img/icons/home5.svg" alt=""> <span>Portfolio</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-6"><img src="/img/icons/home6.svg" alt=""> <span>Testimonial</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-7"><img src="/img/icons/home8.svg" alt=""> <span>Our Blog</span></a>
@@ -30,7 +30,7 @@
             <div class="space18"></div>
             <h3>Alex Carry</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Alex, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences.</p>
+            <p>Hi, I’m Glen, a dedicated Stand Up Paddleboard racer with 3 years of experience racing around the UK, Europe and beyond</p>
             <div class="space32"></div>
             <ul>
               <li><a href="#"><img src="/img/icons/s-icon1.svg" alt=""></a></li>
@@ -44,7 +44,7 @@
               <a href="/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2024 OVRO. All Rights Reserved.</p>
+            <p>© 2025 Glen. SUP Arran. All Rights Reserved.</p>
           </div>
       </div>
       <div class="col-lg-8">
@@ -524,7 +524,7 @@
                         </svg>
                       </div>
                       <div class="space20"></div>
-                      <p>"From wireframes to the final product, Alex brought creativity and functionality together beautifully. The final design not only looks fantastic but also works flawlessly across devices." </p>
+                      <p>"From wireframes to the final product, Alex brought creativity and functionality together beautifully. The final design not only looks fantastic but also works flawlessly across devices."</p>
                       <div class="space24"></div>
                       <div class="mans-area">
                         <div class="man">
