@@ -23,7 +23,7 @@
                                         </span>
                                     </label>
                                 </div>
-                                <a href="#" class="vl-btn1">HIRE ME <span><img src="/img/icons/mail1.svg" alt=""></span></a>
+                                <a href="#" class="vl-btn1">SPONSOR ME <span><img src="/img/icons/mail1.svg" alt=""></span></a>
                                 <button class="hamburger_menu"><img src="/img/icons/bars-icons1.svg" alt=""></button>
                             @endif
                         </div>
