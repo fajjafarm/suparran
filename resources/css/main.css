@@ -405,8 +405,8 @@ img {
   --ztc-text-btn-text1: #0E161F;
   --ztc-text-cnone-text: #fff;
   --ztc-bg-bg-1: #061D1E;
-  --ztc-bg-btn-bg1: #FFAE00;
-  --ztc-bg-btn-bg2: #fab41d;
+  --ztc-bg-btn-bg1: #0066ff;
+  --ztc-bg-btn-bg2: #0066ff;
   --ztc-bg-side-bg1: #061D1E;
   --ztc-bg-bg2: rgba(255, 255, 255, 0.1);
   --ztc-bg-sticky-bg: #061D1E;
@@ -4506,7 +4506,7 @@ Location:
   width: 40px;
   height: 40px;
   border-radius: 100%;
-  border: 1px solid #FFAE00;
+  border: 1px solid #0077ff;
   transition: all 200ms ease-out;
   position: fixed;
   pointer-events: none;
@@ -4530,7 +4530,7 @@ Location:
   width: 10px;
   height: 10px;
   border-radius: 100%;
-  background-color: #FFAE00;
+  background-color: #0066ff;
   position: fixed;
   transform: translate(-50%, -50%);
   pointer-events: none;
