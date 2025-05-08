@@ -306,7 +306,7 @@
                             <img src="/img/icons/skill4.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">Polarbear Perforamnce</span></h3>
+                          <h3><span class="counter">Polarbear Performance</span></h3>
                           <div class="space16"></div>
                           <p>Training plans from Christian "Polar Bear" Andersen</p>
                         </div>
@@ -318,9 +318,9 @@
                             <img src="/img/icons/skill5.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">92</span>%</h3>
+                          <h3><span class="counter">Torq</span></h3>
                           <div class="space16"></div>
-                          <p>Adobe XD</p>
+                          <p>Hydration, Gels and Recovery Protein</p>
                         </div>
                       </div>
 
@@ -330,9 +330,9 @@
                             <img src="/img/icons/skill6.svg" alt="" class="Wordpress">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">85</span>%</h3>
+                          <h3><span class="counter">ADA FArm</span>%</h3>
                           <div class="space16"></div>
-                          <p>Wordpress</p>
+                          <p>I run online projects to help towards funding for travel and race entries</p>
                         </div>
                       </div>
                     </div>
