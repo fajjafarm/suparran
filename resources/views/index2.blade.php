@@ -223,6 +223,8 @@
                           <h4>2024</h4>
                           <div class="space24"></div>
                           <p>Masters 40+</p>
+                          <p>ICF World SUP Championships - Sarasota - USA (Sprint, Tech, Distance)</p>
+                          <p>ISA World SUP Championships - Copenhagen - Denmark (Tech, Distance) (First athlete to represent Scotland at these Championships)</p>
                           
                         </div>
                       </div>
