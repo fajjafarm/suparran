@@ -202,7 +202,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="service-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">My Services</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">Race History</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Elevating Brands</h2>
                       <div class="space24"></div>
@@ -210,15 +210,16 @@
                       <div class="space50"></div>
                      <div class="div" data-aos="fade-left" data-aos-duration="900">
                       <div class="service-main-boxes" >
-                        <h4>UI/UX Design</h4>
+                        <h4>2025 (Masters 40+)</h4>
                         <div class="space24"></div>
-                        <p>Designing intuitive, user-focused interfaces that prioritize functionality and seamless navigation.</p>
+                        <p>Spring Sup Race - Cammachio - Italy (Sprint, Tech, Distance)</p>
+                        <p>Battle For Hercules - Benelmedena, Spain (Tech & Distance)</p>
                       </div>
                      </div>
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1000">
                         <div class="service-main-boxes">
-                          <h4>User Research & Prototyping</h4>
+                          <h4>2024 (Masters 40+)</h4>
                           <div class="space24"></div>
                           <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
                         </div>
@@ -226,17 +227,20 @@
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1100">
                         <div class="service-main-boxes">
-                          <h4>Responsive Web Design</h4>
+                          <h4>2023</h4>
                           <div class="space24"></div>
-                          <p>Crafting designs that adapt seamlessly across all devices, ensuring a consistent user experience.</p>
+                          <p>World SUP Festival Tech & Distance (7km)</p>
                         </div>
                       </div>
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1200">
                         <div class="service-main-boxes">
-                          <h4>Wireframing & Visual Design</h4>
+                          <h4>2022</h4>
                           <div class="space24"></div>
-                          <p>Creating detailed wireframes and visually stunning designs to bring ideas into focus.</p>
+                          <p>APP Alicante - Sprint & Distance (Open)</p>
+                          <p>APP London - Sprint & Distance (Open)</p>
+                          <p>Loch Venechar 5km</p>
+                          <p>Big Dippa - Whitley Bay 5km</p>
                         </div>
                       </div>
                     </div>
