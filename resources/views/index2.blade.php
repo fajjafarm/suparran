@@ -256,9 +256,9 @@
                     <div class="skill-header heading1">
                       <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">My Gear</h5>
                       <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">The gear and tools behind </h2>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">The gear and tools behind my</h2>
                       <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">my paddling performance. (purchased)</h2>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100"><span>paddling performance.</span> </h2>
                     </div>
                     <div class="space80"></div>
                     <div class="row">
