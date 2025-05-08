@@ -282,9 +282,9 @@
                             <img src="/img/icons/skill2.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">Blackproject Paddles</span></h3>
+                          <h3><span class="counter">Blackproject</span></h3>
                           <div class="space16"></div>
-                          <p>SynergyX & SprintX</p>
+                          <p>SynergyX & SprintX Paddles</p>
                         </div>
                       </div>
 
