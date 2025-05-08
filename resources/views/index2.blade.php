@@ -18,7 +18,7 @@
               <a class="list-group-item list-group-item-action active" href="#list-item-1"><img src="/img/icons/home1.svg" alt=""><span>Home</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-2"><img src="/img/icons/home2.svg" alt=""> <span>About Glen</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="/img/icons/home3.svg" alt=""> <span>Race History</span></a>
-              <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="/img/icons/home4.svg" alt=""> <span>Sponsors</span></a>
+              <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="/img/icons/home4.svg" alt=""> <span>My Gear</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-5"><img src="/img/icons/home5.svg" alt=""> <span>Portfolio</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-6"><img src="/img/icons/home6.svg" alt=""> <span>Testimonial</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-7"><img src="/img/icons/home8.svg" alt=""> <span>Our Blog</span></a>
