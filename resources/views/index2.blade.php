@@ -210,8 +210,9 @@
                       <div class="space50"></div>
                      <div class="div" data-aos="fade-left" data-aos-duration="900">
                       <div class="service-main-boxes" >
-                        <h4>2025 (Masters 40+)</h4>
+                        <h4>2025 </h4>
                         <div class="space24"></div>
+                        <p>Masters 40+</p>
                         <p>Spring Sup Race - Cammachio - Italy (Sprint, Tech, Distance)</p>
                         <p>Battle For Hercules - Benelmedena, Spain (Tech & Distance)</p>
                       </div>
@@ -219,9 +220,10 @@
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1000">
                         <div class="service-main-boxes">
-                          <h4>2024 (Masters 40+)</h4>
+                          <h4>2024</h4>
                           <div class="space24"></div>
-                          <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
+                          <p>Masters 40+</p>
+                          
                         </div>
                       </div>
                       <div class="space30"></div>
