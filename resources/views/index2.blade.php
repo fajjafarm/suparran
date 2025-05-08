@@ -203,18 +203,18 @@
                   <div class="col-lg-12">
                     <div class="service-header heading1">
                       <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">Race History</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Elevating Brands</h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Intuitive <span>Design</span></h2>
-                      <div class="space50"></div>
+                      
                      <div class="div" data-aos="fade-left" data-aos-duration="900">
                       <div class="service-main-boxes" >
                         <h4>2025 </h4>
                         <div class="space24"></div>
                         <p>Masters 40+</p>
-                        <p>Spring Sup Race - Cammachio - Italy (Sprint, Tech, Distance)</p>
+                        <p>Pending - Holy Isle Kayak & SUP Race (11km Distance)</p>
+                        <p>Pending - Scottish SUP Champpionships (Sprint, Tech, Distance)</p>
+                        <p>Pending - World SUP Festival Tech & Distance (15km)</p>
                         <p>Battle For Hercules - Benelmedena, Spain (Tech & Distance)</p>
+                        <p>Spring Sup Race - Cammachio - Italy (Sprint, Tech, Distance)</p>
+                        
                       </div>
                      </div>
                       <div class="space30"></div>
@@ -225,7 +225,7 @@
                           <p>Masters 40+</p>
                           <p>ICF World SUP Championships - Sarasota - USA (Sprint, Tech, Distance)</p>
                           <p>ISA World SUP Championships - Copenhagen - Denmark (Tech, Distance) (First athlete to represent Scotland at these Championships)</p>
-                          
+                          <p>Holy Isle Kayak & SUP Race (11km Distance)</p>
                         </div>
                       </div>
                       <div class="space30"></div>
@@ -233,8 +233,9 @@
                         <div class="service-main-boxes">
                           <h4>2023</h4>
                           <div class="space24"></div>
+                          <p>Holy Isle Kayak & SUP Race (11km Distance)</p>
                           <p>World SUP Festival Tech & Distance (7km)</p>
-                        </div>
+                          </div>
                       </div>
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1200">
