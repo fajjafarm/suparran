@@ -254,11 +254,11 @@
                 <div class="row">
                   <div class="col-gl-12">
                     <div class="skill-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">My Skill</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">My Gear</h5>
                       <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">The Tools Behind </h2>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">The gear and tools behind </h2>
                       <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Exceptional <span>Design</span></h2>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">my <span>paddling performance. (purchased)</span></h2>
                     </div>
                     <div class="space80"></div>
                     <div class="row">
@@ -268,9 +268,11 @@
                             <img src="/img/icons/skill1.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">96</span>%</h3>
+                          <h3><span class="counter">Infinity</span></h3>
                           <div class="space16"></div>
-                          <p>Figma</p>
+                          <p>Blackfish Flatdeck 14'x 24.5"
+                            Will go to a 23" or everyready soon
+                          </p>
                         </div>
                       </div>
 
@@ -280,9 +282,9 @@
                             <img src="/img/icons/skill2.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">87</span>%</h3>
+                          <h3><span class="counter">Blackproject Paddles</span></h3>
                           <div class="space16"></div>
-                          <p>Photoshop</p>
+                          <p>SynergyX & SprintX</p>
                         </div>
                       </div>
 
@@ -292,9 +294,9 @@
                             <img src="/img/icons/skill3.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">90</span>%</h3>
+                          <h3><span class="counter">Blackproject</span></h3>
                           <div class="space16"></div>
-                          <p>Illustrator</p>
+                          <p>Sonic, Maliko, Condor & Tiger fins</p>
                         </div>
                       </div>
 
@@ -304,9 +306,9 @@
                             <img src="/img/icons/skill4.svg" alt="">
                           </div>
                           <div class="space24"></div>
-                          <h3><span class="counter">89</span>%</h3>
+                          <h3><span class="counter">Polarbear Perforamnce</span></h3>
                           <div class="space16"></div>
-                          <p>Sketch</p>
+                          <p>Training plans from Christian "Polar Bear" Andersen</p>
                         </div>
                       </div>
 
