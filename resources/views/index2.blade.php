@@ -58,7 +58,7 @@
               <div class="space24"></div>
               <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Sharing Experiences <span>and Inspiring others</span></h1>
               <div class="space24"></div>
-              <p data-aos="fade-left" data-aos-duration="1100">The SUP Worl is incredible and my aim is to enjoy it as much as possible with enouraging others to take part in what is one of the fastest growing sports in the World </p>
+              <p data-aos="fade-left" data-aos-duration="1100">The SUP World is incredible. My aim is to be competitive with the best in the World and enjoy it as much as possible. All while enouraging others to take part in what is one of the fastest growing sports in the World. Age is no barrier either </p>
               <div class="arrow" data-aos="fade-left" data-aos-duration="1200">
                 <a href="#">
                   <img src="/img/elements/elements1.png" alt="" class="elements1 keyframe5">
