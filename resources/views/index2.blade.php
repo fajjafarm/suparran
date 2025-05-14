@@ -103,9 +103,9 @@
                     <div class="about-boxes2">
                       <img src="/img/icons/home2.svg" alt="">
                       <div class="content-area">
-                        <h4>UI/UX Design</h4>
+                        <h4>Instagram</h4>
                         <div class="space16"></div>
-                        <p>Designing intuitive, user-focused interfaces that prioritize functionality & seamless navigation.</p>
+                        <p>Sharing my paddling, travel and photography.</p>
                       </div>
                     </div>
                   </div>
@@ -114,34 +114,14 @@
                     <div class="about-boxes2">
                       <img src="/img/icons/home3.svg" alt="">
                       <div class="content-area">
-                        <h4>User Research & Prototyping</h4>
+                        <h4>Youtube</h4>
                         <div class="space16"></div>
-                        <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
+                        <p>Working on sharing content via youtube to reach different audiences. </p>
                       </div>
                     </div>
                   </div>
 
-                  <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1100">
-                    <div class="about-boxes2">
-                      <img src="/img/icons/home4.svg" alt="">
-                      <div class="content-area">
-                        <h4>Responsive Web Design</h4>
-                        <div class="space16"></div>
-                        <p>Crafting designs  adapt seamlessly across all devices ensuring and  a  consistent user experience.</p>
-                      </div>
-                    </div>
-                  </div>
 
-                  <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200">
-                    <div class="about-boxes2">
-                      <img src="/img/icons/home5.svg" alt="">
-                      <div class="content-area">
-                        <h4>Wireframing & Visual Design</h4>
-                        <div class="space16"></div>
-                        <p>Creating detailed wireframes and visually stunning designs to bring ideas into focus.</p>
-                      </div>
-                    </div>
-                  </div>
                   <div class="soace20"></div>
                   <div class="col-lg-6 col-md-6">
                     <h3>Work Experience</h3>
