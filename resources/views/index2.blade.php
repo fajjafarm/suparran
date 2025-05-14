@@ -86,7 +86,9 @@
                 <div class="space24"></div>
                 <h1 data-aos="fade-left" data-aos-duration="1000">Personal Performance.</h1>
                 <div class="space24"></div>
-                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">Encourage others to paddle and<span>compete</span></h1>
+                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">Encourage others to paddle <span>compete.</span>.</h1>
+                 <div class="space24"></div>
+                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">Promote the Isle of Arran as <span>destination</span>.</h1>
               </div>
               <div class="space60"></div>
               <div class="about-boxarea">
