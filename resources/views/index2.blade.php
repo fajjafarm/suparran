@@ -122,58 +122,9 @@
                   </div>
 
 
-                  <div class="soace20"></div>
-                  <div class="col-lg-6 col-md-6">
-                    <h3>Work Experience</h3>
-                    <div class="space32"></div>
-                    <div class="about-others-box" data-aos="zoom-in" data-aos-duration="900">
-                      <a href="#">2015-2020</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">UI/UX Designer</a> </h4>
-                      <div class="space16"></div>
-                      <p>Creative Spark Agency</p>
-                      <div class="space32"></div>
-                      <a href="#">2020 - Present</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Senior UI/UX Designer </a></h4>
-                      <div class="space16"></div>
-                      <p>Visionary Tech</p>
-                    </div>
-                    <div class="about-others-box text-center" data-aos="zoom-in" data-aos-duration="1000">
-                      <h4>Stay With Me </h4>
-                      <div class="space18"></div>
-                      <ul>
-                        <li><a href="#"><img src="/img/icons/s-icon1.svg" alt=""></a></li>
-                        <li><a href="#"><img src="/img/icons/s-icon2.svg" alt=""></a></li>
-                        <li><a href="#"><img src="/img/icons/s-icon3.svg" alt=""></a></li>
-                        <li><a href="#"><img src="/img/icons/s-icon4.svg" alt=""></a></li>
-                        <li><a href="#" class="m-0"><img src="/img/icons/s-icon5.svg" alt=""></a></li>
-                      </ul>
-                    </div>
-                  </div>
+                 
 
-                  <div class="col-lg-6 col-md-6">
-                    <h3>Education</h3>
-                    <div class="space32"></div>
-                    <div class="about-others-box" data-aos="zoom-in" data-aos-duration="1100">
-                      <a href="#">2010 - 2013</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Bachelor's Degree in Graphic Design</a> </h4>
-                      <div class="space16"></div>
-                      <p>University of California</p>
-                      <div class="space32"></div>
-                      <a href="#">2013 - 2015</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Master's Degree in User Experience Design</a></h4>
-                      <div class="space16"></div>
-                      <p>Massachusetts Institute of Technology (MIT)</p>
-                    </div>
-                  </div>
-                  <div class="space20"></div>
-                </div>
-              </div>
-            </div>
-            <!--===== ABOUT AREA ENDS =======-->
+                  
           </div>
 
           <div id="list-item-3">
