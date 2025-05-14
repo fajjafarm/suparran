@@ -67,7 +67,7 @@
 
                 <div class="images">
                   <img src="/img/all-images/others/others1.png" alt="">
-                  <p>2k+ reviews <br> (4.90 of 5)</p>
+                  <p>15 Events <br> 3 so far in 2025</p>
                 </div>
               </div>
               <div class="space32"></div>
@@ -82,11 +82,11 @@
             <!--===== ABOUT AREA STARTS =======-->
             <div class="about-section-area">
               <div class="heading1">
-                <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">About Us</h5>
+                <h5 data-aos="fade-left" data-aos-duration="800"><img src="/img/icons/sublogo1.svg" alt="">My aims</h5>
                 <div class="space24"></div>
-                <h1 data-aos="fade-left" data-aos-duration="1000">Crafting Seamless</h1>
+                <h1 data-aos="fade-left" data-aos-duration="1000">Personal Performance.</h1>
                 <div class="space24"></div>
-                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">User <span>Experiences</span></h1>
+                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">Encourage others to paddle and<span>compete</span></h1>
               </div>
               <div class="space60"></div>
               <div class="about-boxarea">
@@ -95,7 +95,7 @@
                     <div class="about-main-boxes">
                       <h4>Glen Sloss</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m Glen Sloss, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences. I specialize in crafting user-centered designs that enhance engagement and drive results. By combining research, creativity, and technical skills, I deliver solutions that not only look great but also function seamlessly. </p>
+                      <p>Hi, I’m Glen Sloss, a stand up paddleboard racer from the ISle of Arran, just off the west coast of Scotland, where I train all year round. Training on the sea gives me a wide range of conditions to experience from flat calm days, to windy days where there are swell and bumps to chase and catch (the most fun!). I am a fairly recent new coming to the SUP racing world, but have already managed to compete at various events around the UK and internationally as well. I was part of the first ever Scottish team to compete at the ISA World SUP Championships which were held in Copenhaged in 2024. That whole week was a phenomenal experience from start to finish.</p>
                     </div>
                   </div>
                   <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
