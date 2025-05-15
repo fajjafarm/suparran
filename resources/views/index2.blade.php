@@ -201,7 +201,7 @@
                       <div class="space24"></div>
                       <h2 class="head" data-aos="fade-left" data-aos-duration="1100"><span>paddling performance.</span> </h2>
                     </div>
-                    <div class="space80"></div>
+                    <div class="space80">(not sponsored)</div>
                     <div class="row">
                       <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="900">
                         <div class="skill-boxarea">
