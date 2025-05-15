@@ -155,9 +155,12 @@
                           <h4>2024</h4>
                           <div class="space24"></div>
                           <p>Masters 40+</p>
-                          <p>ICF World SUP Championships - Sarasota - USA (Sprint, Tech, Distance)</p>
-                          <p>ISA World SUP Championships - Copenhagen - Denmark (Tech, Distance) (First athlete to represent Scotland at these Championships)</p>
-                          <p>Holy Isle Kayak & SUP Race (11km Distance)</p>
+                          <p>ICF World SUP Championships - Sarasota - USA (Distance - Masters - 25th)</p>
+                          <p>ICF World SUP Championships - Sarasota - USA (Tech - Masters - )</p>
+                          <p>ICF World SUP Championships - Sarasota - USA (Sprint - Masters )</p>
+                          <p>ISA World SUP Championships - Copenhagen - Denmark (Distance - ) </p>
+                          <p>ISA World SUP Championships - Copenhagen - Denmark (Tech - ) (First athlete to represent Scotland at these Championships)</p>
+                          <p>Holy Isle Kayak & SUP Race 11km Distance - 2nd</p>
                         </div>
                       </div>
                       <div class="space30"></div>
@@ -165,8 +168,12 @@
                         <div class="service-main-boxes">
                           <h4>2023</h4>
                           <div class="space24"></div>
-                          <p>Holy Isle Kayak & SUP Race (11km Distance)</p>
-                          <p>World SUP Festival Tech & Distance (7km)</p>
+                          <p>GBSUP 23 Ocean Tech - Beadnell Belta (3rd - 30-39 Seniors)</p>
+                          <p>Skrea Strand - Sweden - Distance - Open (15th)</p>
+                          <p>Skrea Strand - Sweden - Tech Open Final-B (7th)</p>
+                          <p>Holy Isle Kayak & SUP Race (11km Distance)(Solo SUP competitor)</p>
+                          <p>World SUP Festival Distance (7km)</p>
+                          <p>World SUP Festival Tech</p>
                           </div>
                       </div>
                       <div class="space30"></div>
@@ -176,8 +183,8 @@
                           <div class="space24"></div>
                           <p>APP Alicante - Sprint & Distance (Open)</p>
                           <p>APP London - Sprint & Distance (Open)</p>
-                          <p>Loch Venechar 5km</p>
-                          <p>Big Dippa - Whitley Bay 5km</p>
+                          <p>GBSUP Loch Venachar 5KM Technical Race (2nd (Div 2))</p>
+                          <p>NORTHERN SUP SUMMER SERIES NORTHERLY SWELL (4th)</p>
                         </div>
                       </div>
                     </div>
